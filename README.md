@@ -1,4 +1,5 @@
 # Blended-Learning
 
 
-A Blended Deep Learning Approach for Predicting User Intended Actions
+Tan, Fei, et al. "A blended deep learning approach for predicting user intended actions." 
+2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.
